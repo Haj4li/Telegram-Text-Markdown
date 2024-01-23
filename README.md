@@ -1,7 +1,7 @@
 # Telegram-Text-Markdown
 Telegram Text Markdown php
 
-This simple php code can convert user's text or caption sent to their markdown html style
+This simple php code can convert user's text or caption to their markdown html style
 
 Refrences:
 
