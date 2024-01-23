@@ -15,7 +15,7 @@ Its Me hello from earth monotext strike underline link BooooooSoooooldssssss
 
 
 Markdown result:
-<span class='tg-spoiler'>Its Me</span> hello <i>from</i> <b>earth</b> <code>monotext</code> <s>strike</s> <u>underline</u> <a href='http://google.com/'>link</a> <b>Boooooo</b><b><span class='tg-spoiler'>Sooooold</span></b>ssssss
+\<span class='tg-spoiler'\>Its Me</span> hello <i>from</i> <b>earth</b> <code>monotext</code> <s>strike</s> <u>underline</u> <a href='http://google.com/'>link</a> <b>Boooooo</b><b><span class='tg-spoiler'>Sooooold</span></b>ssssss
 
 
 Example usage:
