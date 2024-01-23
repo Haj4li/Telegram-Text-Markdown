@@ -14,10 +14,15 @@ Its Me hello from earth monotext strike underline link BooooooSoooooldssssss
 
 ![image](https://github.com/Haj4li/Telegram-Text-Markdown/assets/48994331/7a82c42e-324f-4dbe-a2a4-910c2534f1d0)
 
+it also support quotes
+
+![image](https://github.com/Haj4li/Telegram-Text-Markdown/assets/48994331/fdbd9bce-efa7-440d-9524-9b4d5586f795)
+
 
 Markdown result:
 
 \<span class='tg-spoiler'\>Its Me\<\/span\> hello \<i\>from\<\/i\> \<b\>earth\<\/b\> \<code\>monotext\<\/code\> \<s\>strike\<\/s\> \<u\>underline\<\/u\> \<a href='http://google.com/'\>link\<\/a\> \<b\>Boooooo\<\/b\>\<b\>\<span class='tg-spoiler'\>Sooooold\<\/span\>\<\/b\>ssssss
+
 
 
 Example usage:
